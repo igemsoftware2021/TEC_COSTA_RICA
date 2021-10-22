@@ -1,0 +1,97 @@
+{
+  "_id": {
+    "$oid": "615c01a6cfd5dcef86792acc"
+  },
+  "hash": {
+    "$numberLong": "-3332639392829619947"
+  },
+  "sequences": [
+    {
+      "id": 1,
+      "group_id": 0,
+      "orientation": 1,
+      "expresable": true
+    },
+    {
+      "id": 3,
+      "group_id": 0,
+      "orientation": 1,
+      "expresable": true
+    },
+    {
+      "id": 3,
+      "group_id": 0,
+      "orientation": 1,
+      "expresable": true
+    },
+    {
+      "id": 2,
+      "group_id": 1,
+      "orientation": 1,
+      "expresable": true
+    },
+    {
+      "id": 4,
+      "group_id": 1,
+      "orientation": 1,
+      "expresable": false
+    },
+    {
+      "id": 3,
+      "group_id": 0,
+      "orientation": 0,
+      "expresable": false,
+      "promoters": 1
+    },
+    {
+      "id": 6,
+      "group_id": 1,
+      "orientation": 1,
+      "expresable": false,
+      "promoters": 1
+    },
+    {
+      "id": 7,
+      "group_id": 1,
+      "orientation": 1,
+      "expresable": false,
+      "promoters": 1
+    },
+    {
+      "id": 4,
+      "group_id": 1,
+      "orientation": 0,
+      "expresable": false,
+      "promoters": 1
+    },
+    {
+      "id": 6,
+      "group_id": 1,
+      "orientation": 1,
+      "expresable": false,
+      "promoters": 1
+    }
+
+  ],
+  "sequencesGroups": {
+    "basic": [
+      0
+    ],
+    "tyrosin recombinase": [
+      1
+    ]
+  },
+  "expresing": [
+    {
+      "index": 2,
+      "promoters": [
+        1
+      ],
+      "id": 4
+    }
+  ],
+  "previous_states": [],
+  "next_states": [],
+  "invalid": false,
+  "validated": true
+}

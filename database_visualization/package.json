@@ -1,0 +1,19 @@
+{
+  "name": "graph-view",
+  "version": "1.0.0",
+  "main": "public/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moongoose": "^0.0.5"
+  },
+  "devDependencies": {
+    "mongodb": "^4.1.3"
+  }
+}
